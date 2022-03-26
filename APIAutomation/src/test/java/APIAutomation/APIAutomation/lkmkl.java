@@ -7,6 +7,7 @@ public class lkmkl {
 		
 		int a;
 		int b;
+		int c;
 
 	}
 
