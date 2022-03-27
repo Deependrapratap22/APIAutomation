@@ -1,0 +1,18 @@
+{
+      "firstName": "Deependra",
+      "lastName": "Singh",
+      "company": "HCL",
+      "id": "4",
+      "address": [
+        {
+          "houseNumber": "100",
+          "city": "Delhi",
+          "pincode": "110030"
+        },
+        {
+          "houseNumber": "201",
+          "city": "jaunpur",
+          "pincode": "22146"
+        }
+      ]
+  }
